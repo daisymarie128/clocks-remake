@@ -1,0 +1,8 @@
+.clock {
+  display: inline-block;
+  background: red;
+}
+
+body {
+  margin: 0;
+}
